@@ -2138,6 +2138,11 @@ kleur@^3.0.3:
   resolved "https://registry.yarnpkg.com/kleur/-/kleur-3.0.3.tgz#a79c9ecc86ee1ce3fa6206d1216c501f147fc07e"
   integrity sha512-eTIzlVOSUR+JxdDFepEYcBMtZ9Qqdef+rnzWdRZuMbOywu5tO2w2N7rqjoANZ5k9vywhL6Br1VRjUIgTQx4E8w==
 
+kleur@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/kleur/-/kleur-4.1.0.tgz#eea37aa8c210a06c42a591ee56a13f137a13add3"
+  integrity sha512-s9jD+1dPhJVOzEAGjuabDC1NJdNr1UGj84SftcGukJDpQaLbwuJTakb7FqAhm4cFkhaIvS2DV092FXMyUgPt+w==
+
 leven@^3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/leven/-/leven-3.1.0.tgz#77891de834064cccba82ae7842bb6b14a13ed7f2"
