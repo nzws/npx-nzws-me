@@ -31,7 +31,7 @@
     "open": "^7.4.2"
   },
   "devDependencies": {
-    "@babel/cli": "^7.13.0",
+    "@babel/cli": "^7.13.10",
     "@babel/core": "^7.13.8",
     "@babel/preset-env": "^7.13.10",
     "@yuzulabo/eslint-config": "^1.0.1",
